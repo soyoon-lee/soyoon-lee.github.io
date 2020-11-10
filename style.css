@@ -1,0 +1,25 @@
+
+body {
+      background-color:Lavender;
+      margin:20px 20px 20px 20px;
+      font-family:"Times New Roman", Times, serif;
+}
+
+h2 {
+      font-family:"Courier New", Courier, monospace;
+      text-align:center;
+}
+
+h3 {
+      font-family:Comic Sans MS, cursive, sans-serif;
+}
+
+p {
+      margin:25px 25px 25px 25px;
+      font-family:Comic Sans MS, cursive, sans-serif;
+}
+
+ul {
+      margin:25px 25px 25px 25px;
+      font-family:Comic Sans MS, cursive, sans-serif;
+}
